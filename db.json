@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "id": "906a",
+      "titulo": "Equipo Front End #AluraMás",
+      "descripcion": "5 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/rpvrLaBQwgg",
+      "imagen": "https://i.ytimg.com/an_webp/rpvrLaBQwgg/mqdefault_6s.webp?du=3000&sqp=CPi-sLEG&rs=AOn4CLCuDvbcM_os25vG68-qTMg630NJiQ"
     }
   ]
 }
