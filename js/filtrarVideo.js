@@ -25,15 +25,15 @@ async function filtrarVideo(evento) {
 const botonBuscar = document.querySelector('[data-boton-busqueda]');
 
 botonBuscar.addEventListener('click', evento => filtrarVideo(evento));
-const inputBuscar = document.getElementById('buscar');
+/*const inputBuscar = document.getElementById('buscar');
 inputBuscar.addEventListener('keyup', (evento) => {
     if (evento.keyCode == 13) {
         filtrarVideo(evento);
     }
-})
+})*/
 
 
-/*
+
 const inputEle = document.getElementById('buscar');
 inputEle.addEventListener('keyup', function(e){
   var key = e.which || e.keyCode;
@@ -41,4 +41,3 @@ inputEle.addEventListener('keyup', function(e){
     filtrarVideo(e)
   }
 });
-*/
